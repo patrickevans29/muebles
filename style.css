@@ -76,6 +76,18 @@ section p {
 	margin-bottom: 20px;
 }
 
+.fundamental {
+	background-color: aliceblue;
+}
+
+.extra {
+	background-color: bisque;
+}
+
+.oferta {
+	background-color: greenyellow;
+}
+
 /* Footer styles */
 footer {
 	background-color: #333;
